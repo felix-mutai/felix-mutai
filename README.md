@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felix-mutai
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning data science. 
+- 👀 I’m in Data Science and Vue-Laravel Stack
+- 🌱 I’m currently learning Mern Tech stack. 
 - 💞️ I’m looking to collaborate on any project related to data science. 
 - 📫 Reach me on my email felixmutai22@gmail.com 
 
